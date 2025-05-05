@@ -8,7 +8,7 @@ categories:
 coverImage: '/images/meo.jpg'
 coverWidth: 16
 coverHeight: 9
-excerpt: Lương đẹp chai.
+excerpt: Lương đẹp chaiiiiiiiiiiiiiiiiiiiiiiiiiiiiii.
 ---
 
 # Hệ thống phân tán là gì?

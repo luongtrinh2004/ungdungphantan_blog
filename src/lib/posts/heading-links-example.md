@@ -124,7 +124,3 @@ Amazon sử dụng kiến trúc hướng sự kiện:
 - Hệ thống lưu trữ, hệ thống thanh toán, và hệ thống kho vận sẽ đồng bộ hoá và phản hồi sự kiện này một cách tự động, nhanh chóng.
 
 ---
-
-**Tác giả**: Trịnh Phúc Lương  
-**MSSV**: 22010064  
-**Ngày viết**: 28/04/2025

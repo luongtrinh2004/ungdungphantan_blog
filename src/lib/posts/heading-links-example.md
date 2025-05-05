@@ -1,14 +1,14 @@
 ---
-title: 'Giới thiệu về Hệ Thống Phân Tán'
-date: '2025-04-28'
-updated: '2023-10-26'
+title: "Giới thiệu về Hệ Thống Phân Tán"
+date: "2025-04-28"
+updated: "2023-10-26"
 categories:
-  - 'sveltekit'
-  - 'markdown'
-coverImage: '/images/meo.jpg'
+  - "sveltekit"
+  - "markdown"
+coverImage: "/images/meo.jpg"
 coverWidth: 16
 coverHeight: 9
-excerpt: Lương đẹp chaiiiiiiiiiiiiiiiiiiiiiiiiiiiiii.
+excerpt: Lương đẹp chai.
 ---
 
 # Hệ thống phân tán là gì?

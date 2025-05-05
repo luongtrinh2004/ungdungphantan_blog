@@ -110,7 +110,7 @@ Các mô hình kiến trúc phổ biến trong thiết kế hệ thống phân t
 - **Event-Driven Architecture (EDA)**: Hệ thống phản ứng theo các sự kiện bất đồng bộ, rất phù hợp với môi trường phức tạp và phân tán.
 - **Serverless Computing**: Ứng dụng hoạt động mà không cần quản lý máy chủ vật lý, sử dụng dịch vụ như AWS Lambda.
 
-![Kiến trúc hệ thống phân tán](/image/hinh3.webp)
+![Kiến trúc hệ thống phân tán](/images/hinh3.webp)
 
 ---
 

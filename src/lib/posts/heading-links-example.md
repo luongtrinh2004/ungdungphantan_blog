@@ -7,12 +7,6 @@ published: true
 excerpt: 'Lương đẹp chai.'
 ---
 
-**Tác giả**: Trịnh Phúc Lương  
-**MSSV**: 22010064  
-**Ngày sáng tác**: 28/04/2025
-
----
-
 # Hệ thống phân tán là gì?
 
 Hệ thống phân tán (_Distributed System_) là một tập hợp các máy tính độc lập, hoạt động đồng bộ để thực hiện một mục tiêu chung. Các hệ thống này được kết nối với nhau thông qua mạng lưới truyền thông, phối hợp và chia sẻ tài nguyên nhằm tăng hiệu suất, độ tin cậy, và khả năng mở rộng.

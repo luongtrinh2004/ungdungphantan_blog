@@ -1,10 +1,14 @@
 ---
 title: 'Giới thiệu về Hệ Thống Phân Tán'
 date: '2025-04-28'
+updated: '2023-10-26'
+categories:
+  - 'sveltekit'
+  - 'markdown'
 coverImage: '/images/meo.jpg'
-description: 'Khái niệm nền tảng, ứng dụng thực tế, các mô hình kiến trúc và các thuật ngữ cơ bản trong hệ thống phân tán.'
-published: true
-excerpt: 'Lương đẹp chai.'
+coverWidth: 16
+coverHeight: 9
+excerpt: Lương đẹp chai.
 ---
 
 # Hệ thống phân tán là gì?
@@ -106,7 +110,7 @@ Các mô hình kiến trúc phổ biến trong thiết kế hệ thống phân t
 - **Event-Driven Architecture (EDA)**: Hệ thống phản ứng theo các sự kiện bất đồng bộ, rất phù hợp với môi trường phức tạp và phân tán.
 - **Serverless Computing**: Ứng dụng hoạt động mà không cần quản lý máy chủ vật lý, sử dụng dịch vụ như AWS Lambda.
 
-![Kiến trúc hệ thống phân tán](/images/hinh3.webp)
+![Kiến trúc hệ thống phân tán](/image/hinh3.webp)
 
 ---
 

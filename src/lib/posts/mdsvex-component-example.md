@@ -1,5 +1,5 @@
 ---
-title: "Tiến trình & Luồng"
+title: "Blog 2: Tiến trình & Luồng"
 date: "2025-05-05"
 updated: "2025-05-05"
 categories:

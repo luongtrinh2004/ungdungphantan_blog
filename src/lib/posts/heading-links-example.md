@@ -1,5 +1,5 @@
 ---
-title: "Giới thiệu về Hệ Thống Phân Tán"
+title: "Blog 1: Giới thiệu về Hệ Thống Phân Tán"
 date: "2025-04-28"
 updated: "2023-10-26"
 categories:

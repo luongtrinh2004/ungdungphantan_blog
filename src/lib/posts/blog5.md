@@ -204,5 +204,3 @@ Hai ví dụ trên minh họa rõ cách giao tiếp giữa client và server b�
 - Cách gọi phương thức từ xa trên một đối tượng.
 
 Hãy thử sửa đổi, ví dụ thêm nhiều chức năng tính toán hơn, hoặc gửi dữ liệu phức tạp hơn (chuỗi, danh sách, đối tượng) để hiểu sâu hơn về khả năng của RMI.
-
-> Bạn muốn mình đóng gói 2 ví dụ này thành project NetBeans hoặc Eclipse? Hãy để lại bình luận nhé!
